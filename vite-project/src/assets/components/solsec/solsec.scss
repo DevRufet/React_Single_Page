@@ -1,0 +1,21 @@
+.solsec{
+    background-color: #ffffff;
+    display: flex;
+    
+    justify-content: center;
+    h1{
+        color: #0099e5;
+    }
+    p{
+        color: #848d92;
+    
+    }
+}
+.container1{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
